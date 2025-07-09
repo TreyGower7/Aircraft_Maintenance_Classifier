@@ -1,10 +1,10 @@
 # Automated Fault Detection in Aircraft Maintenance Logs
 
 ### 1. Problem
-- Aircraft maintenance logs play a critical role in tracking service history and anticipating potential failures. Traditionally, these logs are reviewed manually after each flight—a necessary process for ensuring safety and compliance, but one that adds significant time, labor, and cost to operations.
+Aircraft maintenance logs play a critical role in tracking service history and anticipating potential failures. Traditionally, these logs are reviewed manually after each flight—a necessary process for ensuring safety and compliance, but one that adds significant time, labor, and cost to operations.
 
 ### 2. Goal
-- To address these challenges, a machine learning-based detection and recommendation system designed to automate fault identification and suggest maintenance actions could be novel. This system aims to reduce downtime, minimize manual review effort, and enhance overall aircraft readiness and operational efficiency.
+To address these challenges, a machine learning-based detection and recommendation system designed to automate fault identification and suggest maintenance actions could be novel. This system aims to reduce downtime, minimize manual review effort, and enhance overall aircraft readiness and operational efficiency.
 
 ### 3. Action
 
